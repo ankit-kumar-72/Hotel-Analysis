@@ -6,15 +6,19 @@ Features
 1. Data Import
 
 Easily import hotel data from various sources, including CSV files, databases, or APIs. The tool supports a wide range of data formats to ensure flexibility in data integration.
+
 2. Occupancy Analysis
 
 Get a detailed analysis of hotel occupancy rates over time. Visualize trends, identify peak seasons, and analyze factors influencing room occupancy.
+
 3. Customer Reviews
 
 Analyze customer reviews and sentiment to understand guest satisfaction. Identify areas for improvement and track the impact of changes on overall customer satisfaction.
+
 4. Pricing Trends
 
 Examine pricing trends to optimize room rates. Analyze historical data and market conditions to set competitive prices and maximize revenue.
+
 5. Competitor Comparison
 
 Compare the performance of your hotel against competitors. Gain insights into pricing strategies, customer satisfaction, and occupancy rates to stay competitive in the market.
